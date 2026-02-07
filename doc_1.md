@@ -26,3 +26,4 @@
 4. Prints `Balanced` if parentheses match, else prints `Not Balanced`.
 
 
+## sample output
